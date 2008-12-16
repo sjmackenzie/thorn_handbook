@@ -1,0 +1,46 @@
+#+TAGS: duffles aresnick lucy
+#+FILETAGS: sprout_www
+
+#+STARTUP: hidestars lognoteclock-out
+
+* TODO First iteration
+  DEADLINE: <2008-12-25 Thu>
+** TODO Make storytelling easy [0/3]				       :duffles:
+   DEADLINE: <2008-11-21 Fri>
+*** TODO Choose a markup language to allow for linking to our information (resources, places, etc.) [5 hours]
+*** TODO Implement editable text interface [8 hours]
+*** TODO Implement tagging subsections of text as resource/narrative [12 hours]
+** TODO Setting up geotagging system [/]			      :aresnick:
+   DEADLINE: <2008-12-18 Thu>
+*** TODO Choose a map service (Google Maps, OpenStreetMap, OpenLayers, etc.) for use.  Needs to allow for easy scripting of dynamic views (preferably RESTful).  For instance, I should be able to display an arbitrary address programmatically.  Avoid Flash. Suspect Google My Maps.
+*** TODO Write wrapper around map choice for displaying maps
+*** TODO Plan tagging system for being able to tag resources/places programmatically
+*** TODO List resources that we would like to geotag
+** TODO Working document of sprout handbook [5 hours] 	      :aresnick:duffles:
+   DEADLINE: <2008-12-05 Fri>
+* TODO Second iteration
+** TODO Userspace [/]			
+*** TODO Registration/signup process
+*** TODO Session management
+** TODO Implementing a messaging system [/] 			    
+*** TODO API for GMail mailing lists
+*** TODO Research/plan how to implement intra-site messaging for first contact a la Couchsurfing
+** TODO Writing Python wrappers for external application APIs [20 hours]  :duffles:
+**** TODO flickr	
+**** TODO youtube	
+**** TODO delicious	
+** TODO Plan web traffic encryption (installing OpenSSL)		  :aresnick:
+** TODO Plan user and project data encryption				  :aresnick:
+** TODO Create contingency plan/scheme for preserving integrity		  :aresnick:
+** TODO Set up web server and space on slice @ slicehost	  :duffles:aresnick:
+* TODO Third iteration
+** TODO Site-wide search via Google	
+** TODO API/authorization for money				    
+** TODO Choose money handler -- aim for robust, anonymous, cheap, in that order
+** TODO Implement wrapper to allow for sending money			
+** TODO Implement wrapper to sign up new people				
+** TODO Send Lucy and Shaunalynn github emails re: sprout		  :aresnick:
+** TODO Write up sprout overview				  :duffles:aresnick:
+** TODO Clarify anonymous project workflow--when a user wants to start an anonymous project or action
+*** TODO Anonymous media account creation (e.g. flickr)
+** TODO Flesh out sprout_www documentation both for users and developers  :aresnick:
