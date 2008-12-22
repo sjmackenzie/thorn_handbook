@@ -6,18 +6,18 @@
 * TODO First iteration
   DEADLINE: <2008-12-25 Thu>
 ** TODO Make storytelling easy [0/3]				       :duffles:
-   DEADLINE: <2008-11-21 Fri>
+   DEADLINE: <2009-01-15 Thu>
 *** TODO Choose a markup language to allow for linking to our information (resources, places, etc.) [5 hours]
 *** TODO Implement editable text interface [8 hours]
 *** TODO Implement tagging subsections of text as resource/narrative [12 hours]
 ** TODO Setting up geotagging system [/]			      :aresnick:
-   DEADLINE: <2008-12-18 Thu>
+   DEADLINE: <2009-01-08 Thu>
 *** TODO Choose a map service (Google Maps, OpenStreetMap, OpenLayers, etc.) for use.  Needs to allow for easy scripting of dynamic views (preferably RESTful).  For instance, I should be able to display an arbitrary address programmatically.  Avoid Flash. Suspect Google My Maps.
 *** TODO Write wrapper around map choice for displaying maps
 *** TODO Plan tagging system for being able to tag resources/places programmatically
 *** TODO List resources that we would like to geotag
 ** TODO Working document of sprout handbook [5 hours] 	      :aresnick:duffles:
-   DEADLINE: <2008-12-05 Fri>
+   DEADLINE: <2009-01-03 Mon>
 * TODO Second iteration
 ** TODO Userspace [/]			
 *** TODO Registration/signup process
