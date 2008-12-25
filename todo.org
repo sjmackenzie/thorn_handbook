@@ -1,10 +1,5 @@
-#+TAGS: duffles aresnick lucy
-#+FILETAGS: sprout_www
-
-#+STARTUP: hidestars lognoteclock-out
-
 * TODO First iteration
-  DEADLINE: <2008-12-25 Thu>
+  DEADLINE: <2008-12-28 Sun>
 ** TODO Make storytelling easy [0/3]				       :duffles:
    DEADLINE: <2009-01-15 Thu>
 *** TODO Choose a markup language to allow for linking to our information (resources, places, etc.) [5 hours]
