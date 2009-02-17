@@ -1,0 +1,70 @@
+#title Sprout description
+#desc 
+
+# <<functionalities>>
+* functionalities
+** facilitating the telling of a story and linking this story with lessons learned
+** annotation of maps and images (indexing geographically relevant knowledge--where a good room to get a network drop is, etc.)
+** Marking items and resources as time sensitive (being able to ask for help)
+** people profiles
+*** contain skillsets
+*** hook into existing social networks
+*** use place to construct mailing lists (e.g. I'm in DC and need help: construct this mailing list and merge with information tagged to the user)
+** collecting and annotating useful links
+** indexing and tagging information and resources searchably
+** internal communication between members for making first contact, make Google Apps (see [[implementation]] for details) responsible for communication.  Also retain anonymity in first contact.
+** encrypted communications (optional)
+** facilitating money transfer
+** offering feeds/news for projects
+** working document of a sprout book
+*** how to pick locks, social engineering, etc.  a generalized handbook with semiprivate edit permissions
+** groups/permissions which control views (in particular, one should be able to tag themselves as willing to break a law without publicly revealing this)
+
+# <<timeline>>
+* timeline
+* rev1
+ - Being able to write a story and tag elements as narrative or resource
+ - Implementation of a map interface 
+ - Geotagging resources and narratives
+ - Working document of sprout handbook
+* rev2
+ - Implement userspace
+   - profiles
+   - messaging
+   - Connect user location to maps
+   - privacy
+   - APIs for social networks 
+     - flickr
+     - youtube
+     - delicious
+* rev3
+ - Site-wide search
+ - Encryption
+ - API/authorization for money
+
+
+* tags
+ - time-sensitive
+ - users tag projects they are following
+ - users tags skillsets
+ - timestamp (begin, end)
+ - location
+ - privacy: friends, project, no-one, etc.  One way communications should be possible through tags.
+
+# <<implementation>>
+* implementation thoughts
+** guidebook is a collection of interfaces to a set of resources--the information shouldn't be duplicated, there should just be a collection of resources with attributes like type (place, etc.) notes,  parent stories (stories in which the resource figures), tags, etc.
+** Use existing services for things like media storage (eg flickr, youtube)
+** Google Apps
+** [[http://getfiregpg.org/][PGP]] is too easy to use now to not use
+** merge/make equivalent similar tags
+** need to think about how to index questions across views (comments on a blog, questions on a manual, etc.)
+
+
+# <<design criteria>>
+* design criteria
+ - Everything which needs to be searchable needs to be indexable by
+   Google, meaning it should end up as static HTML somewhere with a
+   RESTful/clean URL.
+ - Always work within the concrete context of making telling the
+   takingDC story possible
