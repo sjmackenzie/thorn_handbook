@@ -4,9 +4,9 @@
 # YOU DON'T NEED TO READ THEM UNLESS YOU'RE INTERESTED IN HOW ORG-MODE
 # WORKS AT SPROUT
 
-# This file is ${filename} of the ${projectName} project.  It is
-# maintained by ${username} of ${userURL}.  Any questions or concerns
-# about this file should be directed to ${emailAddress}.  Take a look
+# This file is thorn_handbook_todo.org of the thorn_handbook project.  It is
+# maintained by duffles of http://shaunalynnduffy.org.  Any questions or concerns
+# about this file should be directed to thorn_handbook@sproutward.org.  Take a look
 # at the [[fileDescription]] before doing so.
 
 # Lines beginning with "#+" are
@@ -25,11 +25,11 @@
 # will be used if/when the file gets [[glossary:render][rendered]]
 # into another format (like HTML).
 #
-#+TITLE: ${projectName} tasks
-#+AUTHOR: maintained by ${username} of ${userURL} 
-#+EMAIL: ${emailAddress}
+#+TITLE: thorn_handbook tasks
+#+AUTHOR: maintained by duffles of http://shaunalynnduffy.org 
+#+EMAIL: thorn_handbook@sproutward.org
 #+DATE: ${date}
-#+LANGUAGE: ${language}
+#+LANGUAGE: en
 #
 #
 # ---
@@ -40,8 +40,8 @@
 # [[glossary:org-agenda][agenda]] and the tags let you
 # [[glossary:tag][tag]] headlines.
 # 
-#+CATEGORY: ${projectName} 
-#+FILETAGS: sprout ${filename} ${projectName}
+#+CATEGORY: thorn_handbook 
+#+FILETAGS: sprout thorn_handbook_todo.org thorn_handbook
 #
 #
 # ---
