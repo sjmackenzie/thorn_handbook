@@ -147,8 +147,9 @@ line, or drop by [[irc:/sprout/irc.freenode.net][#sprout]] on IRC.
 
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
 
-* TODO Replan/redate thorn handbook				      :aresnick:
-  DEADLINE: <2009-03-18 Wed>
+* DONE Replan/redate thorn handbook				      :aresnick:
+  DEADLINE: <2009-03-18 Wed> CLOSED: [2009-03-17 Tue 00:24]
+  - CLOSING NOTE [2009-03-17 Tue 00:24]
 
 * First iteration
 ** TODO Make storytelling easy [0/3]				       :duffles:
