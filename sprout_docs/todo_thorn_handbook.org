@@ -189,3 +189,9 @@ line, or drop by [[irc:/sprout/irc.freenode.net][#sprout]] on IRC.
 ** TODO Clarify anonymous project workflow--when a user wants to start an anonymous project or action
 *** TODO Anonymous media account creation (e.g. flickr)
 ** TODO Flesh out sprout_www documentation both for users and developers  :aresnick:
+
+
+* TODO [#C] look into mapping platforms and choose one :duffles:
+  DEADLINE: <2009-03-24 Tue>
+* TODO [#C] create a map that can be annotated with content :duffles:
+  DEADLINE: <2009-03-25 Wed>
