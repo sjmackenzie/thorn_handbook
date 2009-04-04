@@ -191,7 +191,17 @@ line, or drop by [[irc:/sprout/irc.freenode.net][#sprout]] on IRC.
 ** TODO Flesh out sprout_www documentation both for users and developers  :aresnick:
 
 
-* TODO [#C] look into mapping platforms and choose one :duffles:
-  DEADLINE: <2009-03-24 Tue>
+* DONE [#C] look into mapping platforms and choose one :duffles:
+  DEADLINE: <2009-03-25 Wed> CLOSED: [2009-03-26 Thu 07:25]
+  :PROPERTIES:
+  :Effort:   0:30
+  :END:
+  - CLOSING NOTE [2009-03-26 Thu 07:25] \\
+    decided on google maps, but need to figure out java since the python
+    wrapper doesnt work--or maybe write a python wrapper... I'll check it
+    out more
 * TODO [#C] create a map that can be annotated with content :duffles:
-  DEADLINE: <2009-03-25 Wed>
+  DEADLINE: <2009-04-12 Sun>
+  :PROPERTIES:
+  :Effort:   1:30
+  :END:
