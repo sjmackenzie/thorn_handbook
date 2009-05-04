@@ -201,7 +201,7 @@ line, or drop by [[irc:/sprout/irc.freenode.net][#sprout]] on IRC.
     wrapper doesnt work--or maybe write a python wrapper... I'll check it
     out more
 * TODO [#C] create a map that can be annotated with content :duffles:
-  DEADLINE: <2009-05-03 Sun>
+  DEADLINE: <2009-05-09 Sat>
   :PROPERTIES:
   :Effort:   1:30
   :END:
