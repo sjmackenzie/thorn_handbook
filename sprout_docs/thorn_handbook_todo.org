@@ -200,8 +200,44 @@ line, or drop by [[irc:/sprout/irc.freenode.net][#sprout]] on IRC.
     decided on google maps, but need to figure out java since the python
     wrapper doesnt work--or maybe write a python wrapper... I'll check it
     out more
-* TODO [#C] create a map that can be annotated with content :duffles:
+* TODO [#C] scedule todos for btg		  :duffles:
+  DEADLINE: <2009-05-07 Thu>
+
+## implementation plan notes
+
+### Functionally, the first iteration will ::
+* ability to geotag resources and bits of narrative
+* ability to create filtered view of map
+* ability to create filtered view of narrative 
+* ability to search site content
+
+### user interface
+* TODO [#C] sketch each of the interfaces for the app :duffles:
+  DEADLINE: <2008-05-09 Fri>
+* TODO [#C] implement first draft of home page	  :duffles:
   DEADLINE: <2009-05-09 Sat>
-  :PROPERTIES:
-  :Effort:   1:30
-  :END:
+* TODO [#C] implement first draft of node creation view :duffles:
+  DEADLINE: <2009-05-15 Fri>
+* TODO [#C] implement first draft of map view	  :duffles:
+  DEADLINE: <2009-05-09 Sat>
+* TODO [#C] implement first draft of narrative view :duffles:
+  DEADLINE: <2009-05-11 Mon>
+* TODO [#C] implement first draft of detailed node view :duffles:
+  DEADLINE: <2009-05-13 Wed>
+
+### technical functionality
+* TODO function to instantiate map
+* TODO function to create node on map
+* TODO function to move node 
+* TODO function to delete node
+* TODO function to tag node
+* TODO function to filter nodes
+* TODO function to search tags and text
+* TODO function to construct narrative
+* TODO function to attach media to node
+
+### media
+* TODO function to display photo from flickr
+* TODO function to embed video from youtube
+* TODO function to display pdf
+
