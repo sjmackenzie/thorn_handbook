@@ -200,8 +200,9 @@ line, or drop by [[irc:/sprout/irc.freenode.net][#sprout]] on IRC.
     decided on google maps, but need to figure out java since the python
     wrapper doesnt work--or maybe write a python wrapper... I'll check it
     out more
-* TODO [#C] scedule todos for btg		  :duffles:
-  DEADLINE: <2009-05-07 Thu>
+* DONE [#C] scedule todos for btg		  :duffles:
+  DEADLINE: <2009-05-07 Thu> CLOSED: [2009-05-07 Thu 09:53]
+  - CLOSING NOTE [2009-05-07 Thu 09:53]
 
 ## implementation plan notes
 
@@ -213,7 +214,7 @@ line, or drop by [[irc:/sprout/irc.freenode.net][#sprout]] on IRC.
 
 ### user interface
 * TODO [#C] sketch each of the interfaces for the app :duffles:
-  DEADLINE: <2008-05-09 Fri>
+  DEADLINE: <2009-05-09 Fri>
 * TODO [#C] implement first draft of home page	  :duffles:
   DEADLINE: <2009-05-09 Sat>
 * TODO [#C] implement first draft of node creation view :duffles:
