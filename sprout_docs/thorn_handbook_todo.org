@@ -214,15 +214,14 @@ line, or drop by [[irc:/sprout/irc.freenode.net][#sprout]] on IRC.
 
 ### user interface
 * TODO [#C] sketch each of the interfaces for the app :duffles:
-  DEADLINE: <2009-05-09 Fri>
+  DEADLINE: <2009-05-13 Wed>
 * TODO [#C] implement first draft of home page	  :duffles:
-  DEADLINE: <2009-05-09 Sat>
+  DEADLINE: <2009-05-14 Thu>
 * TODO [#C] implement first draft of node creation view :duffles:
   DEADLINE: <2009-05-15 Fri>
 * TODO [#C] implement first draft of map view	  :duffles:
-  DEADLINE: <2009-05-09 Sat>
+  DEADLINE: <2009-05-18 Mon>
 * TODO [#C] implement first draft of narrative view :duffles:
-  DEADLINE: <2009-05-11 Mon>
 * TODO [#C] implement first draft of detailed node view :duffles:
   DEADLINE: <2009-05-13 Wed>
 
