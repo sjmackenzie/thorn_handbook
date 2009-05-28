@@ -214,16 +214,14 @@ line, or drop by [[irc:/sprout/irc.freenode.net][#sprout]] on IRC.
 
 ### user interface
 * TODO [#C] sketch each of the interfaces for the app :duffles:
-  DEADLINE: <2009-05-24 Sun>
+  DEADLINE: <2009-05-29 Fri>
+* TODO [#C] schedule todos for rest of BTG	  :duffles:
 * TODO [#C] implement first draft of home page	  :duffles:
-  DEADLINE: <2009-06-01 Mon>
 * TODO [#C] implement first draft of node creation view :duffles:
-  DEADLINE: <2009-05-25 Mon>
 * TODO [#C] implement first draft of map view	  :duffles:
-  DEADLINE: <2009-06-01 Mon>
 * TODO [#C] implement first draft of narrative view :duffles:
 * TODO [#C] implement first draft of detailed node view :duffles:
-  DEADLINE: <2009-06-01 Mon>
+
 
 ### technical functionality
 * TODO function to instantiate map
