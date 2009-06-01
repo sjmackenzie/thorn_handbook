@@ -214,7 +214,7 @@ line, or drop by [[irc:/sprout/irc.freenode.net][#sprout]] on IRC.
 
 ### user interface
 * TODO [#C] sketch each of the interfaces for the app :duffles:
-  DEADLINE: <2009-05-29 Fri>
+  DEADLINE: <2009-06-03 Wed>
 * TODO [#C] schedule todos for rest of BTG	  :duffles:
 * TODO [#C] implement first draft of home page	  :duffles:
 * TODO [#C] implement first draft of node creation view :duffles:
