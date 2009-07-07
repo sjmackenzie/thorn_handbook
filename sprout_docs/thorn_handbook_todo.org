@@ -213,8 +213,9 @@ line, or drop by [[irc:/sprout/irc.freenode.net][#sprout]] on IRC.
 * ability to search site content
 
 ### user interface
-* TODO [#C] sketch each of the interfaces for the app :duffles:
-  DEADLINE: <2009-07-01 Wed>
+* POSTPONED [#C] sketch each of the interfaces for the app :duffles:
+  DEADLINE: <2009-07-05 Sun> CLOSED: [2009-07-06 Mon 19:25]
+  - CLOSING NOTE [2009-07-06 Mon 19:25]
 * TODO [#C] schedule todos for rest of BTG	  :duffles:
 * TODO [#C] implement first draft of home page	  :duffles:
 * TODO [#C] implement first draft of node creation view :duffles:
